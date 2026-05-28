@@ -5,7 +5,7 @@
 Fiji/ImageJ macros for kinetochore-to-kinetochore (KT–KT) fluorescence intensity line profile analysis across bridging fiber overlaps.
 
 Developed for:
-> Skendo et al. (2025) *Title to be confirmed upon publication.* Cell Reports.
+> Skendo et al. (2026) *Title to be confirmed upon publication.* Cell Reports.
 
 ---
 
@@ -137,7 +137,7 @@ Two example output files are provided in the `example_data/` folder:
 
 If you use these macros, please cite:
 
-> Skendo K et al. (2025) Title to be confirmed. *Cell Reports*. DOI: to be added upon publication.
+> Skendo K et al. (2026) Title to be confirmed. *Cell Reports*. DOI: to be added upon publication.
 
 ---
 
